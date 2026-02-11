@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I’m @LiamHefford, third year Computer Science student at the University of Derby.
+<!-- Hi, I’m @LiamHefford, third year Computer Science student at the University of Derby. -->
 <br>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamHefford&layout=compact&theme=tokyonight) -->
